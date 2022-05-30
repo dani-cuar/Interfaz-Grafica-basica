@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UdeaApplication</string>
+    <string name="register_form">Formulario de registro</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellidos</string>
+    <string name="email">Correo electrónico</string>
+    <string name="register">Registrar</string>
+</resources>
